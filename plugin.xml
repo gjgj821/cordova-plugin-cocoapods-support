@@ -9,6 +9,7 @@
     <license>MIT</license>
     <engines>
         <engine name="cordova" version="&gt;=6.0.0"/>
+        <engine name="cordova-ios" version="&gt;=4.5.0"/>
     </engines>
 
     <hook type="after_prepare" src="scripts/podify.js"/>
